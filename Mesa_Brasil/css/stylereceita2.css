@@ -1,0 +1,111 @@
+.topbox {
+    background-color: #A93123;
+    height: 80px;
+    color: #fff;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-weight: bold;
+    padding-top: 30px;
+    padding-left: 60px;
+   
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+.listaingred{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    
+}
+
+p{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+
+table{
+   
+    border-spacing: 20px;
+    margin-left: 400px;
+}
+td{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    border-spacing: 30px;
+    
+}  
+
+.preparo{
+    padding-left:160px;
+}
+.formadepreparo{
+    padding-left: 100px;
+}
+
+.receita1{
+    background-image: url(../img/receita1.png);
+    height: 400px;
+    width: 600px;
+    margin-left: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+ .preparo{
+    font-weight: bold;
+}
+.ingredientes{
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.home{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 30px;
+    border-radius: 30px;
+    background-color: #A93123;
+    list-style-type: none;
+    
+}
+
+.receita2{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 30px;
+    border-radius: 30px;
+    background-color: #A93123;
+    list-style-type: none;
+}
+
+.receitas{
+    border-spacing: 90px;
+    margin-left: 500px;
+
+}
+
+.receitatalos{
+    background-image: url(../img/talos.png);
+    height: 400px;
+    width: 600px;
+    margin-left: 500px;
+    background-position: center;
+    background-size: cover;
+}
